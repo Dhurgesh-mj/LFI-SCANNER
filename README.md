@@ -40,4 +40,4 @@ usage: lfi-scanner.py [-h] -u URL -w WORDLIST -p PARAMETER [-t THREADS] [-o OUTP
 
 ## ⚠️ Disclaimer
 
-Please note that this tool should be used ethically and responsibly. Do not use this tool on sites for which you do not have explicit permission to test security. The creator and contributors of LFIHunt are not responsible for any misuse or damage caused by this program. Always respect the laws and regulations concerning penetration testing.
+Please note that this tool should be used ethically and responsibly. Do not use this tool on sites for which you do not have explicit permission to test security. The creator and contributors of LFI-SCANNER are not responsible for any misuse or damage caused by this program. Always respect the laws and regulations concerning penetration testing.
